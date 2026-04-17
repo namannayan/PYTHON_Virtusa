@@ -6,7 +6,7 @@ Smart Expense Tracker with Insights is a Python-based personal finance applicati
 
 The system stores expenses in a CSV file, generates visual reports, identifies major spending categories, and provides smart suggestions to reduce unnecessary expenses.
 
----
+
 
 ## Key Objectives
 
