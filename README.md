@@ -16,7 +16,7 @@ The system stores expenses in a CSV file, generates visual reports, identifies m
 * Detect overspending areas
 * Encourage better financial planning
 
----
+
 
 ## Features
 
@@ -56,7 +56,7 @@ Provides useful recommendations such as:
 
 * Reset all stored expense records
 
----
+
 
 ## Technologies Used
 
