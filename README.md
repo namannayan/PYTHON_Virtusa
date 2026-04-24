@@ -15,6 +15,7 @@ The system stores expenses in a CSV file, generates visual reports, identifies m
 * Visualize where money is spent
 * Detect overspending areas
 * Encourage better financial planning
+* integraated paytm csv file for semi dynamic analysis
 
 
 
